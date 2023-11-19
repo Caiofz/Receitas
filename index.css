@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ header {
+    background-color: #F0D430;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+ }
+ 
+ article.receita {
+    background-color: #F2E079;
+    color: black;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+ }
+ 
+ footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+ }
+ 
+ a{
+    color:#706838;
+    text-decoration: solid;
+ }
